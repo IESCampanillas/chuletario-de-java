@@ -1,8 +1,8 @@
 # chuletario-de-java
 Java: trucos, consejos y curiosidades
 
-##Índice :computer:
-#### [¿Cómo leer arrays con for each correctamente?](#for-each)
+# Índice :computer:
+## [¿Cómo leer arrays con for each correctamente?](#for-each)
 
 
 <a name="for-each"></a>¿Cómo leer arrays con for each correctamente?
