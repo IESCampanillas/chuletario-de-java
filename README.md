@@ -1,4 +1,4 @@
-# chuletario-de-java
+# Chuletario de Java
 Java: trucos, consejos y curiosidades
 
 # Índice :computer:
